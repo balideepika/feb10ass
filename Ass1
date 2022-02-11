@@ -1,0 +1,14 @@
+Sno=int(input('enter student no')) 
+Sname=input('enter student name')) 
+Sgroup=input('enter student group')) 
+S1=int(input('maths marks')) 
+S2=int(input('physics marks')) 
+S3=int(input('computer marks')) 
+S4=int(input('english marks')) 
+S5=int(input('telugu marks')) 
+S6=int(input('foundation course marks')) 
+If s1>=65 and s2>=95 and s3>=75 and s4>=97 and s5>=87
+ And s6>=67 :
+Print('paas) 
+Else:
+Print('fail')
